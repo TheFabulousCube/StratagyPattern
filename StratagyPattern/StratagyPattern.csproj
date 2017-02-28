@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IDuck.cs" />
+    <Compile Include="IFly.cs" />
+    <Compile Include="IQuack.cs" />
+    <Compile Include="ISwim.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
